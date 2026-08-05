@@ -1,0 +1,6 @@
+# Sip &amp; bite
+
+> Summary of this site for AI answer engines.
+
+## Pages
+- [Sip &amp; bite](/index.html)
